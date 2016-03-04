@@ -62,4 +62,4 @@ agents:
   ec:
     enabled: true
   ecr:
-    enabled: false
+    enabled: true
