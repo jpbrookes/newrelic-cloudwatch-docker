@@ -1,10 +1,5 @@
-###
-#
-# A ubuntu based newrelic-cloudwatch monitoring agent image using the latest official release when built
-#
-###
 FROM ubuntu:14.04
-MAINTAINER Kingsquare <docker@kingsquare.nl>
+MAINTAINER Segura <jon.brookes@segura.co.uk>
 
 WORKDIR /usr/local/newrelic_aws_cloudwatch_plugin-latest
 
